@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-    ll t;
+    ll t; 
     speed_io;
     cin >> t;
 
